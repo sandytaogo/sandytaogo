@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 #### 💫 About Me:
 🔭 Passionate Software Engineer with extensive 9+ years of hands-on professional experience in software development and enterprise applications implementation.<br>
 
@@ -21,8 +20,8 @@ Here are some ideas to get you started:
 
 #### 📊 GitHub Stats:
 <p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=sandytaogo&theme=dark&include_all_commits=false&count_private=false&title_color=81A1C1&bg_color=ffffff" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandytaogo&theme=dark&include_all_commits=false&count_private=false&layout=compact&title_color=81A1C1&bg_color=ffffff"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=sandytaogo&title_color=81A1C1&icon_color=81A1C1&text_color=333&bg_color=ffffff&show_icons=true&theme=dark&count_private=false&hide=issues" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandytaogo&theme=dark&include_all_commits=false&count_private=false&layout=compact&title_color=81A1C1&bg_color=ffffff" />
   <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=sandytaogo&theme=dark&hide_border=false) -->
 </p>
 
